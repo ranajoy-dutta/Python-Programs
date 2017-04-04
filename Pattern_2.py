@@ -20,4 +20,4 @@ for i in range(n,0,-1):     #DECREASING STARS
         print('* ', end="")  
     print('')
 
-QUIT=input("PRESS ENTER TO EXIT")
+QUIT=input("\nPRESS ENTER TO EXIT")
