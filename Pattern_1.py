@@ -11,5 +11,4 @@ for i in range(0,x):
         print("* ",end="")
     print()
 
-
 QUIT=input("PRESS ENTER TO EXIT")
